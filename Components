@@ -1,2 +1,16 @@
-Semiconductors: 
+Semiconductors:
+Atmega328p- A
+
+Passive Components:
+C1 = 0.1pF
+C2 = 0.1pF
+C4 = 10uF
+C5 = 0.1uF
+R1 = 10k
+
+Other: 
+Crystal 16Hz
+Lidar TFMini 
+Servo
+LCD 16x4
 
