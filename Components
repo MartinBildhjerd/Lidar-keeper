@@ -9,7 +9,6 @@ C5 = 0.1uF
 R1 = 10k
 
 Other: 
-Crystal 16Hz
 Lidar TFMini 
 Servo
 LCD 16x4
