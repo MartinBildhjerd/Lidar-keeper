@@ -2,14 +2,10 @@ Semiconductors:
 Atmega328p- A
 
 Passive Components:
-C1 = 0.1pF
-C2 = 0.1pF
-C4 = 10uF
-C5 = 0.1uF
+C3 = 10uF
 R1 = 10k
 
 Other: 
 Lidar TFMini 
 Servo
-LCD 16x4
-
+LCD 20x4
