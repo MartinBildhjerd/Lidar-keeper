@@ -3,9 +3,12 @@ Atmega328p- A
 
 Passive Components:
 C3 = 10uF
+C2 = 22pF
+C1 = 22pF
 R1 = 10k
 
 Other: 
-Lidar TFMini 
+Lidar TFMini
 Servo
 LCD 20x4
+Crystal 16MHz
